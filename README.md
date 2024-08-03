@@ -4,7 +4,7 @@ Sistema de punto de venta para una concesionaria de autos
 ## DESARROLLADORES
 
 * ALONSO CRUZ YAHIR JIBSAM
-* GUILLERMO
+* AGUILAR SANTIAGO GUILLERMO
 
 ## Tecnologías Usadas
 
