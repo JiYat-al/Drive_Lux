@@ -1,0 +1,19 @@
+# NetBeans specific files
+nbproject/private/
+nbbuild/
+build/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+# General files
+*.log
+*.war
+*.ear
+*.class
+*.jar
+*.db
+*.swp
+*~ 
+*.tmp
+*.bak
+*.old
